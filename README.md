@@ -30,7 +30,7 @@
 - поиск по имени
 
 Скриншоты приложения:
-![Header](https://github.com/musovvir/app-contacts/blob/main/src/assets/authorization.jpg)
+![Header](https://github.com/Grom013/JsSimpleCode/blob/main/photo_2022-03-25_22-26-07%20(2).jpg)
 ![Header](https://github.com/musovvir/app-contacts/blob/main/src/assets/app-contacts.jpg)
 ![Header](https://github.com/musovvir/app-contacts/blob/main/src/assets/updating.jpg)
 ![Header](https://github.com/musovvir/app-contacts/blob/main/src/assets/search.jpg)
