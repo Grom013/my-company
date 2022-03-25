@@ -3,19 +3,14 @@
 ### Что я использовал:
 
 - React
-- Redux
-- Redux-Thunk
-- Redux-Logger
 - React-Router-Dom
-- json-server
-- Material UI
-- Concurrently
+- Lodash
 
 ### Инструкция по запуску:
 
 1. Скачайте приложение с GitHub:
 
-### `git clone https://github.com/Musovvir/app-contacts.git`
+### `https://github.com/Grom013/my-company.git`
 
 2. Введите в терминале команду:
 
@@ -25,15 +20,11 @@
 
 ### `npm run dev`
 
-### Данные для авторизации
-
-- Логин: admin
-- Пароль: admin
-
 ### Возможности приложения:
 
-- авторизация
-- добавление контактов
+- пагинация
+- фитльтрация
+- сортировка
 - изменение контактов
 - удаление контактов
 - поиск по имени
